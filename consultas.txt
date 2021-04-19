@@ -1,0 +1,15 @@
+{
+	"empresa":"Sinergia S.A",
+	"vacante": "generador de planos",
+	"descripcion": "realizar levantamiento de informacion para crear planos de los futuros proyectos de construccion energetica.",
+	"vacantes": 1,
+	"estado" : "A"
+}
+
+{
+	"empresa":"solutions S.A",
+	"vacante": "Desarrollador Frontend",
+	"descripcion": "implementar tecnologias UI y UX en las aplicaciones web del cliente con tecnologias html, css, javascript y framework como sass, less y stilus",
+	"vacantes": 2,
+	"estado" : "A"
+}
